@@ -96,10 +96,8 @@ p.card-text{
 	letter-spacing:0.05rem;
 	color:rgba(255,255,255,0.5);
 }
-.st0{fill:#24B865;stroke:#FFFFFF;stroke-width:1.5;}
-.st1{fill:#FFFFFF;}
-.st2{font-family:'Roboto-Light';}
-.st3{font-size:9.061px;}
-.st4{font-size:9.0612px;}
-.st5{fill:#24B865;stroke:#FFFFFF;}
-.st6{fill:none;stroke:#FFFFFF;}
+.st0{fill:#FFFFFF;}
+	.st1{font-family:'Roboto-Light';}
+	.st2{font-size:16px;}
+	.st3{fill:#24B865;stroke:#FFFFFF;stroke-width:1.5;}
+	.st4{fill:none;stroke:#FFFFFF;}
