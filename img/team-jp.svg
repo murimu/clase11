@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 425 179" style="enable-background:new 0 0 425 179;" xml:space="preserve">
+<style type="text/css">
+   @import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Roboto:300,500,700|Monoton);
+
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:Roboto;font-weight:bold;}
+	.st2{font-size:12px;}
+	.st3{display:none;opacity:0.1;fill:#102615;enable-background:new    ;}
+	.st4{fill:#24B865;stroke:#FFFFFF;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<text transform="matrix(1 0 0 1 252.7026 155.2148)" class="st0 st1 st2">COACH:</text>
+<text transform="matrix(1 0 0 1 222.2026 169.6148)" class="st0 st1 st2">JAMIE JOSEPH (NZ)</text>
+<text transform="matrix(1 0 0 1 115.9678 155.2156)" class="st0 st1 st2">JAPAN</text>
+<rect x="225" y="13" class="st3" width="99" height="122"/>
+<g>
+	<path class="st4" d="M184.5,50.4c0,0,9.1,76.1-49,88.5c-58-12.4-49-88.5-49-88.5S119.4,19.8,175,9C175,9,182.4,26.8,184.5,50.4z"/>
+	<circle class="st0" cx="135.5" cy="78" r="25.6"/>
+</g>
+<image style="overflow:visible;" width="600" height="649" xlink:href="../img/jamie-joseph-jap.png"  transform="matrix(0.1873 0 0 0.1873 225 13.2043)">
+</image>
+</svg>
